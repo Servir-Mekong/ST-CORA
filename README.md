@@ -4,11 +4,11 @@ Spatiotemporal Object-based Rainfall Analysis
 
 ## Dependencies
 
-numpy
-skimage 
-skimage
-statsmodels
-cc3d 
+ numpy
+ skimage 
+ skimage
+ statsmodels
+ cc3d  (https://github.com/seung-lab/connected-components-3d)
 
 
  ## Paramaters
