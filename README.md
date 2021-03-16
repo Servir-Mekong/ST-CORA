@@ -30,3 +30,12 @@ EndTime = datetime(2015, 10, 31, 23, 0, 0)
 ## SPATIAL SEARCH
 Inten_Seach = 10
 Min_seachsize = 20
+
+
+REFERENCES
+
+ST-CORA
+Laverde-Barajas, M., Corzo, G., Bhattacharya, B., Uijlenhoet, R., & Solomatine, D. P. (2019). Spatiotemporal analysis of extreme rainfall events using an object-based approach. In Spatiotemporal Analysis of Extreme Hydrological Events (pp. 95-112). Elsevier.
+
+ST-CORA with Multivariate kernel density estimation (KED)
+Laverde-Barajas, M., Corzo, G. A., Poortinga, A., Chishtie, F., Meechaiya, C., Jayasinghe, S., ... & Solomatine, D. P. (2020a). St-corabico: A spatiotemporal object-based bias correction method for storm prediction detected by satellite. Remote Sensing, 12(21), 3538.
