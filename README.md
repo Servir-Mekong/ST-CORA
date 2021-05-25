@@ -14,7 +14,8 @@ Spatiotemporal Object-based Rainfall Analysis
 - scipy
 -  cc3d  (https://github.com/seung-lab/connected-components-3d)
 -  matplotlib
-
+-  joblib
+-  multiprocessing
 
 @author: M. Laverde-Barajas
 @email: m.laverde@un-ihe.org
