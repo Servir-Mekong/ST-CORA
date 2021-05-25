@@ -1,6 +1,7 @@
-# ST-CORA
-Spatiotemporal Object-based Rainfall Analysis 
-
+# ST-CORA with KDE storm segmentation
+* Spatiotemporal Object-based Rainfall Analysis 
+* 4-dimensional object-based storm analysis using a Multivariate kernel density estimation (KDE)
+* multicore analysis
 
 ## Dependencies
 
