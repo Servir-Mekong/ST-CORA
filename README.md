@@ -1,6 +1,7 @@
 # ST-CORA with KDE storm segmentation
-* Spatiotemporal Object-based Rainfall Analysis 
-* 4-dimensional object-based storm analysis using a Multivariate kernel density estimation (KDE)
+Spatiotemporal Object-based Rainfall Analysis 
+* 3D and 4D object-based storm analysis 
+* 4D analysis using a Multivariate kernel density estimation (KDE)
 * multicore analysis
 
 ## Dependencies
@@ -45,5 +46,5 @@ REFERENCES
 ST-CORA
 Laverde-Barajas, M., Corzo, G., Bhattacharya, B., Uijlenhoet, R., & Solomatine, D. P. (2019). Spatiotemporal analysis of extreme rainfall events using an object-based approach. In Spatiotemporal Analysis of Extreme Hydrological Events (pp. 95-112). Elsevier.
 
-ST-CORA with Multivariate kernel density estimation (KED)
+ST-CORA with Multivariate kernel density estimation (KDE)
 Laverde-Barajas, M., Corzo, G. A., Poortinga, A., Chishtie, F., Meechaiya, C., Jayasinghe, S., ... & Solomatine, D. P. (2020a). St-corabico: A spatiotemporal object-based bias correction method for storm prediction detected by satellite. Remote Sensing, 12(21), 3538.
