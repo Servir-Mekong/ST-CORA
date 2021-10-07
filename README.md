@@ -28,7 +28,7 @@ Spatiotemporal Object-based Rainfall Analysis
         Delft University of Technology        
 ## Paramaters
 - T = 0.5 # wet values
-- T2 = 0.5  # delineation
+- T2 = 50  # delineation
 - Minsize = 15 # 64 km2
 - kernel =   1 = kernel segmentation 4D 0= 3D
 - Psize = 100   # Min Object size
