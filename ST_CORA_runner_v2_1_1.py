@@ -22,15 +22,15 @@
         (https://www.sciencedirect.com/science/article/pii/B9780128116890000057)
         
 ## Paramaters
-T = 0.5 # wet values
-T2 = 0.5  # delineation
-Minsize = 15 # 64 km2
-kernel =  0.25  # 1 = kernel segmentation 4D 0= 3D
-Psize = 100   # Min Object size
-pixel_value = 0.1  # resolution
+T =  wet values
+T2 =  delineation Core
+Minsize = noise
+kernel = 1 = kernel segmentation 4D 0= 3D
+Psize =  Min Object size
+pixel_value =  resolution
 
-StartTime = datetime(2015, 6, 1, 0, 0, 0) #  LOCAL TIME (GMT + 7)
-EndTime = datetime(2015, 10, 31, 23, 0, 0) 
+StartTime = datetime() #  LOCAL TIME (GMT )
+EndTime = datetime() 
 
 MATRIX = 3D rainfall matrix
 boundary = [Xmin_lbm,Xmax_lbm,Ymin_lbm,Ymax_lbm] 
@@ -55,8 +55,8 @@ def main():
     start_time = time.time()
     
     P={}
-    P['T'] = 3  # deliniation  mm/h
-    P['T2'] = 20 # segmenation mm/h
+    P['T'] = 3  # delineation  mm/h
+    P['T2'] = 20 # segmentation mm/h
     P['kernel'] = 1   # Kernel yes =1  
     P['Minsize'] = 10 # Min Object size to be considered as noise 
     P['Psize'] = 100   # pixel extension in km2
